@@ -13,8 +13,4 @@ function writeText () {
     }
 }
 
-function refreshPage(){
-    window.location.reload();
-} 
-
 setInterval(writeText, 100);

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+.animal {
+    width: 150px;
+    height: 50px;
+    color: black;
+    font-size: 20px;
+    border:1px solid black;
+    border-radius: 10px;
+    display: table;
+    text-align: center;
+    font-size: 30px;
+    margin: auto; 
+    margin-top: 35px;
+    cursor: pointer;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.active {
+    transform: translate(0, 0.3rem);
+    color:red;
+}
